@@ -1,0 +1,67 @@
+2019-12-31T14:15:18.498023000 0.017100s notice: Recursively removing directory /Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data/tmp
+2019-12-31T14:15:18.499714000 0.018795s notice: Initializing directory /Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data
+2019-12-31T14:15:18.499847000 0.018924s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data' did not already exist or is empty.)
+2019-12-31T14:15:18.499894000 0.018971s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2019-12-31T14:15:18.505935000 0.025012s notice: Running on Darwin 19.2.0 x86_64
+2019-12-31T14:15:18.505991000 0.025068s notice: Loading data from directory /Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data
+2019-12-31T14:15:18.622906000 0.141979s info: Automatically using cache size of 2575 MB
+2019-12-31T14:15:18.623474000 0.142548s notice: Listening for intracluster connections on port 29015
+2019-12-31T14:15:18.624858000 0.143931s notice: Listening for client driver connections on port 28015
+2019-12-31T14:15:18.624916000 0.143989s notice: Listening for administrative HTTP connections on port 8080
+2019-12-31T14:15:18.624921000 0.143994s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2019-12-31T14:15:18.624924000 0.143997s notice: Listening on driver addresses: 127.0.0.1, ::1
+2019-12-31T14:15:18.624928000 0.144001s notice: Listening on http addresses: 127.0.0.1, ::1
+2019-12-31T14:15:18.624932000 0.144005s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2019-12-31T14:15:18.624935000 0.144008s notice: Server ready, "MacBook_Pro_8_local_3o8" ce750859-4c43-45b7-b860-9392f0641152
+2020-01-01T13:13:10.764868000 37047.391664s notice: Server got SIGINT from pid 49632, uid 502; shutting down...
+2020-01-01T13:13:10.765920000 37047.392714s notice: Shutting down client connections...
+2020-01-01T13:13:10.766910000 37047.393704s notice: All client connections closed.
+2020-01-01T13:13:10.766921000 37047.393715s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-01T13:13:10.771376000 37047.398170s notice: Storage engine shut down.
+2020-01-02T08:09:23.516043000 0.014932s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T08:09:23.522840000 0.021726s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T08:09:23.522902000 0.021787s notice: Loading data from directory /Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data
+2020-01-02T08:09:23.557301000 0.056185s info: Automatically using cache size of 4748 MB
+2020-01-02T08:09:23.558001000 0.056885s notice: Listening for intracluster connections on port 29015
+2020-01-02T08:09:23.560275000 0.059159s notice: Listening for client driver connections on port 28015
+2020-01-02T08:09:23.560392000 0.059276s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T08:09:23.560404000 0.059287s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T08:09:23.560411000 0.059294s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T08:09:23.560417000 0.059300s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T08:09:23.560422000 0.059306s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T08:09:23.560428000 0.059312s notice: Server ready, "MacBook_Pro_8_local_3o8" ce750859-4c43-45b7-b860-9392f0641152
+2020-01-02T08:35:18.307259000 1554.752819s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T08:35:18.307399000 1554.752958s notice: Shutting down client connections...
+2020-01-02T08:35:18.307484000 1554.753044s notice: All client connections closed.
+2020-01-02T08:35:18.307490000 1554.753049s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T08:35:18.307796000 1554.753356s notice: Storage engine shut down.
+2020-01-02T08:35:21.359119000 0.015002s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T08:35:21.365499000 0.021379s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T08:35:21.365586000 0.021465s notice: Loading data from directory /Users/apple/go/src/github.com/melonunderground/gotest/rethinkdb_data
+2020-01-02T08:35:21.399831000 0.055710s info: Automatically using cache size of 4535 MB
+2020-01-02T08:35:21.400496000 0.056374s notice: Listening for intracluster connections on port 29015
+2020-01-02T08:35:21.402032000 0.057910s notice: Listening for client driver connections on port 28015
+2020-01-02T08:35:21.402098000 0.057977s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T08:35:21.402103000 0.057981s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T08:35:21.402107000 0.057985s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T08:35:21.402110000 0.057989s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T08:35:21.402114000 0.057992s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T08:35:21.402118000 0.057996s notice: Server ready, "MacBook_Pro_8_local_3o8" ce750859-4c43-45b7-b860-9392f0641152
+2020-01-02T08:41:50.318502000 388.954911s info: Table c65d60b6-3e33-4b11-aec3-e7c696c48b9b: Starting a new Raft election for term 1.
+2020-01-02T08:41:50.319229000 388.955638s info: Table c65d60b6-3e33-4b11-aec3-e7c696c48b9b: Added replica on this server.
+2020-01-02T08:41:50.340606000 388.977014s info: Table c65d60b6-3e33-4b11-aec3-e7c696c48b9b: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T08:42:00.335296000 398.971404s info: Table 6314ca5a-96a5-4f7f-a49e-c5af207595b9: Starting a new Raft election for term 1.
+2020-01-02T08:42:00.335745000 398.971853s info: Table 6314ca5a-96a5-4f7f-a49e-c5af207595b9: Added replica on this server.
+2020-01-02T08:42:00.356548000 398.992656s info: Table 6314ca5a-96a5-4f7f-a49e-c5af207595b9: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T08:42:05.326527000 403.962485s info: Table 0e8d1042-d7db-46d1-9555-bc415f3be128: Starting a new Raft election for term 1.
+2020-01-02T08:42:05.326742000 403.962701s info: Table 0e8d1042-d7db-46d1-9555-bc415f3be128: Added replica on this server.
+2020-01-02T08:42:05.347369000 403.983327s info: Table 0e8d1042-d7db-46d1-9555-bc415f3be128: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T08:44:48.249760000 566.880831s info: Table 6314ca5a-96a5-4f7f-a49e-c5af207595b9: Configuration is changing.
+2020-01-02T08:47:22.099756000 720.726211s info: Table c65d60b6-3e33-4b11-aec3-e7c696c48b9b: Configuration is changing.
+2020-01-02T08:49:59.245876000 877.867617s info: Table 0e8d1042-d7db-46d1-9555-bc415f3be128: Configuration is changing.
+2020-01-02T08:50:05.918896000 884.540437s info: Table 0e8d1042-d7db-46d1-9555-bc415f3be128: Configuration is changing.
+2020-01-02T09:20:42.971754000 2721.524195s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T09:20:42.972104000 2721.524545s notice: Shutting down client connections...
+2020-01-02T09:20:42.972329000 2721.524771s notice: All client connections closed.
+2020-01-02T09:20:42.972335000 2721.524776s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T09:20:42.983302000 2721.535743s notice: Storage engine shut down.

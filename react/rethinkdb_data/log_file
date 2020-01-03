@@ -1,0 +1,484 @@
+2020-01-02T10:33:06.807808000 0.014119s notice: Recursively removing directory /Users/apple/rethink/rethink/rethinkdb_data/tmp
+2020-01-02T10:33:06.809627000 0.015941s notice: Initializing directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T10:33:06.809919000 0.016229s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/Users/apple/rethink/rethink/rethinkdb_data' did not already exist or is empty.)
+2020-01-02T10:33:06.809972000 0.016283s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T10:33:06.817130000 0.023441s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T10:33:06.817186000 0.023496s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T10:33:06.929509000 0.135816s info: Automatically using cache size of 4986 MB
+2020-01-02T10:33:06.929950000 0.136256s notice: Listening for intracluster connections on port 29015
+2020-01-02T10:33:06.931153000 0.137460s notice: Listening for client driver connections on port 28015
+2020-01-02T10:33:06.931210000 0.137517s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T10:33:06.931215000 0.137522s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T10:33:06.931219000 0.137526s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T10:33:06.931223000 0.137529s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T10:33:06.931227000 0.137534s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T10:33:06.931231000 0.137538s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:14:43.845913000 2496.956505s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:14:43.846180000 2496.956772s notice: Shutting down client connections...
+2020-01-02T11:14:43.846431000 2496.957024s notice: All client connections closed.
+2020-01-02T11:14:43.846437000 2496.957029s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:14:43.846743000 2496.957335s notice: Storage engine shut down.
+2020-01-02T11:14:45.718842000 0.015922s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:14:45.724514000 0.021590s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:14:45.724586000 0.021661s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:14:45.763618000 0.060693s info: Automatically using cache size of 2749 MB
+2020-01-02T11:14:45.764207000 0.061281s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:14:45.765651000 0.062725s notice: Listening for client driver connections on port 28015
+2020-01-02T11:14:45.765709000 0.062783s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:14:45.765714000 0.062788s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T11:14:45.765719000 0.062792s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T11:14:45.765722000 0.062796s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T11:14:45.765729000 0.062802s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T11:14:45.765732000 0.062806s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:27:25.463802000 759.731186s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:27:25.463942000 759.731327s notice: Shutting down client connections...
+2020-01-02T11:27:25.464173000 759.731557s notice: All client connections closed.
+2020-01-02T11:27:25.464183000 759.731567s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:27:25.464536000 759.731920s notice: Storage engine shut down.
+2020-01-02T11:27:26.279356000 0.014197s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:27:26.286057000 0.020896s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:27:26.286133000 0.020971s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:27:26.326436000 0.061273s info: Automatically using cache size of 2523 MB
+2020-01-02T11:27:26.328052000 0.062889s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:27:26.329554000 0.064391s notice: Listening for client driver connections on port 28015
+2020-01-02T11:27:26.329619000 0.064455s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:27:26.329626000 0.064462s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T11:27:26.329632000 0.064468s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T11:27:26.329637000 0.064473s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T11:27:26.329642000 0.064478s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T11:27:26.329647000 0.064483s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:29:57.611798000 151.342096s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:29:57.611962000 151.342260s notice: Shutting down client connections...
+2020-01-02T11:29:57.612058000 151.342356s notice: All client connections closed.
+2020-01-02T11:29:57.612064000 151.342362s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:29:57.612328000 151.342626s notice: Storage engine shut down.
+2020-01-02T11:30:03.514474000 0.016012s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:30:03.519654000 0.021190s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:30:03.519739000 0.021274s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:30:03.555889000 0.057423s info: Automatically using cache size of 2528 MB
+2020-01-02T11:30:03.558194000 0.059729s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:30:03.560032000 0.061566s notice: Listening for client driver connections on port 28015
+2020-01-02T11:30:03.560141000 0.061675s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:30:03.560147000 0.061681s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:30:03.560153000 0.061687s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:30:03.560159000 0.061693s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:30:03.560167000 0.061701s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:33:39.418757000 215.913816s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:33:39.418901000 215.913959s notice: Shutting down client connections...
+2020-01-02T11:33:39.419172000 215.914231s notice: All client connections closed.
+2020-01-02T11:33:39.419199000 215.914257s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:33:39.419509000 215.914568s notice: Storage engine shut down.
+2020-01-02T11:33:39.951670000 0.014739s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:33:39.957209000 0.020275s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:33:39.957333000 0.020399s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:33:39.996677000 0.059742s info: Automatically using cache size of 2462 MB
+2020-01-02T11:33:39.999048000 0.062112s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:33:40.000652000 0.063716s notice: Listening for client driver connections on port 28015
+2020-01-02T11:33:40.000714000 0.063778s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:33:40.000719000 0.063783s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:33:40.000723000 0.063786s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:33:40.000726000 0.063790s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:33:40.000730000 0.063794s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:40:43.639711000 423.683275s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:40:43.639821000 423.683385s notice: Shutting down client connections...
+2020-01-02T11:40:43.639930000 423.683494s notice: All client connections closed.
+2020-01-02T11:40:43.639936000 423.683500s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:40:43.640224000 423.683789s notice: Storage engine shut down.
+2020-01-02T11:42:38.049841000 0.014544s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:42:38.060356000 0.025056s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:42:38.060418000 0.025117s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:42:38.092022000 0.056721s info: Automatically using cache size of 3570 MB
+2020-01-02T11:42:38.094654000 0.059353s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:42:38.096225000 0.060923s notice: Listening for client driver connections on port 28015
+2020-01-02T11:42:38.096370000 0.061068s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:42:38.096379000 0.061078s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:42:38.096385000 0.061083s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:42:38.096391000 0.061090s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:42:38.096397000 0.061095s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:44:53.682262000 135.642894s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:44:53.682397000 135.643028s notice: Shutting down client connections...
+2020-01-02T11:44:53.682612000 135.643244s notice: All client connections closed.
+2020-01-02T11:44:53.682626000 135.643257s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:44:53.683098000 135.643730s notice: Storage engine shut down.
+2020-01-02T11:45:05.073433000 0.014187s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:45:05.079876000 0.020626s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:45:05.079939000 0.020689s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:45:05.116691000 0.057440s info: Automatically using cache size of 3512 MB
+2020-01-02T11:45:05.118767000 0.059516s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:45:05.120148000 0.060896s notice: Listening for client driver connections on port 28015
+2020-01-02T11:45:05.120210000 0.060959s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:45:05.120217000 0.060965s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:45:05.120222000 0.060971s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:45:05.120227000 0.060976s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:45:05.120233000 0.060982s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:46:02.495587000 57.434615s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:46:02.495736000 57.434764s notice: Shutting down client connections...
+2020-01-02T11:46:02.495814000 57.434842s notice: All client connections closed.
+2020-01-02T11:46:02.495819000 57.434847s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:46:02.496231000 57.435258s notice: Storage engine shut down.
+2020-01-02T11:46:12.799989000 0.014340s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:46:12.807171000 0.021519s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:46:12.807278000 0.021625s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:46:12.843685000 0.058031s info: Automatically using cache size of 3495 MB
+2020-01-02T11:46:12.845374000 0.059720s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:46:12.847222000 0.061568s notice: Listening for client driver connections on port 28015
+2020-01-02T11:46:12.847380000 0.061726s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:46:12.847391000 0.061736s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:46:12.847398000 0.061744s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:46:12.847404000 0.061750s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:46:12.847412000 0.061758s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:52:00.344697000 347.548619s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 1.
+2020-01-02T11:52:00.345043000 347.548965s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Added replica on this server.
+2020-01-02T11:52:00.365132000 347.569053s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T11:52:14.245691000 361.449196s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 1.
+2020-01-02T11:52:14.246116000 361.449621s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Added replica on this server.
+2020-01-02T11:52:14.272764000 361.476268s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T11:52:32.485153000 379.688110s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 1.
+2020-01-02T11:52:32.485943000 379.688901s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Added replica on this server.
+2020-01-02T11:52:32.506699000 379.709656s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 1. Latest log index is 0.
+2020-01-02T11:52:46.198516000 393.401062s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:52:46.198693000 393.401239s notice: Shutting down client connections...
+2020-01-02T11:52:46.198969000 393.401516s notice: All client connections closed.
+2020-01-02T11:52:46.199017000 393.401563s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:52:46.204090000 393.406636s notice: Storage engine shut down.
+2020-01-02T11:52:54.598542000 0.016444s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:52:54.604794000 0.022694s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:52:54.604877000 0.022777s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:52:54.635143000 0.053042s info: Automatically using cache size of 3368 MB
+2020-01-02T11:52:54.637058000 0.054956s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:52:54.667191000 0.085089s notice: Listening for client driver connections on port 28015
+2020-01-02T11:52:54.667246000 0.085144s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:52:54.667249000 0.085146s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:52:54.667263000 0.085161s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:52:54.667266000 0.085163s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:52:54.667268000 0.085165s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:52:55.861238000 1.279099s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 2.
+2020-01-02T11:52:55.897404000 1.315265s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 2. Latest log index is 2.
+2020-01-02T11:52:56.340991000 1.758838s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 2.
+2020-01-02T11:52:56.418159000 1.836004s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 2.
+2020-01-02T11:52:56.507785000 1.925627s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 2. Latest log index is 2.
+2020-01-02T11:52:56.593534000 2.011374s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 2. Latest log index is 2.
+2020-01-02T11:58:54.480309000 359.879289s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Configuration is changing.
+2020-01-02T11:59:18.283591000 383.681839s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T11:59:18.283711000 383.681957s notice: Shutting down client connections...
+2020-01-02T11:59:18.284068000 383.682314s notice: All client connections closed.
+2020-01-02T11:59:18.284078000 383.682324s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T11:59:18.425634000 383.823876s notice: Storage engine shut down.
+2020-01-02T11:59:24.569016000 0.021973s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T11:59:24.580075000 0.033028s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T11:59:24.580147000 0.033100s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T11:59:24.618078000 0.071029s info: Automatically using cache size of 3322 MB
+2020-01-02T11:59:24.620252000 0.073204s notice: Listening for intracluster connections on port 29015
+2020-01-02T11:59:24.671426000 0.124376s notice: Listening for client driver connections on port 28015
+2020-01-02T11:59:24.671497000 0.124446s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T11:59:24.671501000 0.124450s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:59:24.671504000 0.124453s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:59:24.671629000 0.124578s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T11:59:24.671632000 0.124582s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T11:59:26.323671000 1.776570s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 3.
+2020-01-02T11:59:26.351832000 1.804731s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 3. Latest log index is 7.
+2020-01-02T11:59:26.423676000 1.876572s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 3.
+2020-01-02T11:59:26.441808000 1.894704s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 3. Latest log index is 6.
+2020-01-02T11:59:26.641286000 2.094176s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 3.
+2020-01-02T11:59:26.953022000 2.405903s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 3. Latest log index is 6.
+2020-01-02T12:02:04.623018000 160.071166s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T12:02:04.623154000 160.071301s notice: Shutting down client connections...
+2020-01-02T12:02:04.623489000 160.071636s notice: All client connections closed.
+2020-01-02T12:02:04.623497000 160.071644s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T12:02:04.801648000 160.249791s notice: Storage engine shut down.
+2020-01-02T12:02:12.937243000 0.018764s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T12:02:12.948924000 0.030441s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T12:02:12.949005000 0.030521s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T12:02:12.992985000 0.074501s info: Automatically using cache size of 3224 MB
+2020-01-02T12:02:13.000664000 0.082179s notice: Listening for intracluster connections on port 29015
+2020-01-02T12:02:13.053511000 0.135024s notice: Listening for client driver connections on port 28015
+2020-01-02T12:02:13.053740000 0.135253s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T12:02:13.053746000 0.135260s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:02:13.053749000 0.135262s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:02:13.053784000 0.135297s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:02:13.053787000 0.135300s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T12:02:14.107180000 1.188662s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 4.
+2020-01-02T12:02:14.131625000 1.213107s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 4. Latest log index is 10.
+2020-01-02T12:02:14.251152000 1.332629s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 4.
+2020-01-02T12:02:14.271498000 1.352975s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 4. Latest log index is 10.
+2020-01-02T12:02:14.283595000 1.365072s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 4.
+2020-01-02T12:02:14.316176000 1.397652s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 4. Latest log index is 11.
+2020-01-02T12:04:12.096255000 119.174198s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T12:04:12.096400000 119.174343s notice: Shutting down client connections...
+2020-01-02T12:04:12.096709000 119.174652s notice: All client connections closed.
+2020-01-02T12:04:12.096736000 119.174679s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T12:04:12.104594000 119.182536s notice: Storage engine shut down.
+2020-01-02T12:04:19.852440000 0.016065s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T12:04:19.857755000 0.021377s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T12:04:19.857846000 0.021467s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T12:04:19.896443000 0.060063s info: Automatically using cache size of 3222 MB
+2020-01-02T12:04:19.898667000 0.062287s notice: Listening for intracluster connections on port 29015
+2020-01-02T12:04:19.939006000 0.102625s notice: Listening for client driver connections on port 28015
+2020-01-02T12:04:19.939088000 0.102706s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T12:04:19.939090000 0.102709s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:04:19.939106000 0.102725s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:04:19.939109000 0.102727s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:04:19.939115000 0.102733s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T12:04:20.981426000 1.145013s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 5.
+2020-01-02T12:04:21.008125000 1.171712s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 5. Latest log index is 14.
+2020-01-02T12:04:21.081799000 1.245383s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 5.
+2020-01-02T12:04:21.107938000 1.271521s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 5. Latest log index is 14.
+2020-01-02T12:04:21.807245000 1.970807s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 5.
+2020-01-02T12:04:22.073735000 2.237293s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 5. Latest log index is 15.
+2020-01-02T12:10:22.598393000 362.751133s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T12:10:22.598513000 362.751252s notice: Shutting down client connections...
+2020-01-02T12:10:22.598621000 362.751360s notice: All client connections closed.
+2020-01-02T12:10:22.598625000 362.751364s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T12:10:22.604813000 362.757552s notice: Storage engine shut down.
+2020-01-02T12:10:28.805250000 0.016179s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T12:10:28.811418000 0.022345s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T12:10:28.811575000 0.022501s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T12:10:28.847574000 0.058498s info: Automatically using cache size of 3161 MB
+2020-01-02T12:10:28.849281000 0.060206s notice: Listening for intracluster connections on port 29015
+2020-01-02T12:10:28.888733000 0.099656s notice: Listening for client driver connections on port 28015
+2020-01-02T12:10:28.888826000 0.099750s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T12:10:28.888835000 0.099758s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:10:28.888837000 0.099760s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:10:28.888853000 0.099776s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:10:28.888854000 0.099777s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T12:10:30.017760000 1.228650s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 6.
+2020-01-02T12:10:30.043881000 1.254769s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 6. Latest log index is 19.
+2020-01-02T12:10:30.634295000 1.845166s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 6.
+2020-01-02T12:10:30.703697000 1.914567s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 6. Latest log index is 18.
+2020-01-02T12:10:30.843350000 2.054215s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 6.
+2020-01-02T12:10:30.865713000 2.076577s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 6. Latest log index is 18.
+2020-01-02T12:15:50.161076000 321.362362s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Configuration is changing.
+2020-01-02T12:16:51.411481000 382.610929s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Configuration is changing.
+2020-01-02T12:17:06.641488000 397.836307s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T12:17:06.641625000 397.836443s notice: Shutting down client connections...
+2020-01-02T12:17:06.641765000 397.836583s notice: All client connections closed.
+2020-01-02T12:17:06.641772000 397.836591s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T12:17:06.649090000 397.843907s notice: Storage engine shut down.
+2020-01-02T12:17:07.545328000 0.016379s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T12:17:07.551132000 0.022179s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T12:17:07.551203000 0.022249s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T12:17:07.583880000 0.054920s info: Automatically using cache size of 3061 MB
+2020-01-02T12:17:07.585667000 0.056707s notice: Listening for intracluster connections on port 29015
+2020-01-02T12:17:07.626820000 0.097852s notice: Listening for client driver connections on port 28015
+2020-01-02T12:17:07.627030000 0.098062s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T12:17:07.627045000 0.098076s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:17:07.627260000 0.098291s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:17:07.627264000 0.098295s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T12:17:07.627267000 0.098298s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T12:17:08.948607000 1.419388s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 7.
+2020-01-02T12:17:08.979533000 1.450308s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 7. Latest log index is 23.
+2020-01-02T12:17:09.307040000 1.777755s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 7.
+2020-01-02T12:17:09.524015000 1.994691s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 7.
+2020-01-02T12:17:09.577884000 2.048551s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 7. Latest log index is 24.
+2020-01-02T12:17:09.645477000 2.116132s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 7. Latest log index is 22.
+2020-01-02T14:02:46.922528000 6339.163394s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T14:02:46.922677000 6339.163543s notice: Shutting down client connections...
+2020-01-02T14:02:46.922828000 6339.163694s notice: All client connections closed.
+2020-01-02T14:02:46.922833000 6339.163699s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T14:02:46.932578000 6339.173444s notice: Storage engine shut down.
+2020-01-02T14:02:59.886289000 0.017029s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T14:02:59.894794000 0.025531s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T14:02:59.894871000 0.025608s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T14:02:59.930568000 0.061303s info: Automatically using cache size of 2796 MB
+2020-01-02T14:02:59.932695000 0.063431s notice: Listening for intracluster connections on port 29015
+2020-01-02T14:02:59.974402000 0.105136s notice: Listening for client driver connections on port 28015
+2020-01-02T14:02:59.974474000 0.105209s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T14:02:59.974508000 0.105242s notice: Listening on cluster addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T14:02:59.974534000 0.105269s notice: Listening on driver addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T14:02:59.974539000 0.105273s notice: Listening on http addresses: 127.0.0.1, 192.168.151.129, ::1, fe80::1%1, fe80::4d2:6201:c3ea:86d4%4, fe80::2e03:fe21:ca18:6c42%11, fe80::a040:eaff:fe62:7158%9, fe80::a040:eaff:fe62:7158%10, fe80::d95e:7f5e:befc:2152%12
+2020-01-02T14:02:59.974541000 0.105274s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T14:03:01.106280000 1.236980s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 8.
+2020-01-02T14:03:01.151492000 1.282191s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 8. Latest log index is 27.
+2020-01-02T14:03:01.323577000 1.454271s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 8.
+2020-01-02T14:03:01.345686000 1.476379s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 8. Latest log index is 28.
+2020-01-02T14:03:01.557099000 1.687786s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 8.
+2020-01-02T14:03:01.767171000 1.897851s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 8. Latest log index is 26.
+2020-01-02T14:03:05.671274000 5.801838s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T14:03:05.671373000 5.801936s notice: Shutting down client connections...
+2020-01-02T14:03:05.671507000 5.802071s notice: All client connections closed.
+2020-01-02T14:03:05.671515000 5.802078s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T14:03:05.680215000 5.810778s notice: Storage engine shut down.
+2020-01-02T14:03:09.347447000 0.013825s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-02T14:03:09.352594000 0.018969s notice: Running on Darwin 19.2.0 x86_64
+2020-01-02T14:03:09.352678000 0.019052s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-02T14:03:09.387681000 0.054054s info: Automatically using cache size of 2788 MB
+2020-01-02T14:03:09.388325000 0.054699s notice: Listening for intracluster connections on port 29015
+2020-01-02T14:03:09.436553000 0.102926s notice: Listening for client driver connections on port 28015
+2020-01-02T14:03:09.436727000 0.103099s notice: Listening for administrative HTTP connections on port 8080
+2020-01-02T14:03:09.436732000 0.103104s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-02T14:03:09.436735000 0.103107s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-02T14:03:09.436737000 0.103109s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-02T14:03:09.436739000 0.103111s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-02T14:03:09.436741000 0.103113s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-02T14:03:10.529193000 1.195533s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 9.
+2020-01-02T14:03:10.550602000 1.216941s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 9. Latest log index is 32.
+2020-01-02T14:03:10.651946000 1.318282s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 9.
+2020-01-02T14:03:10.673888000 1.340223s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 9. Latest log index is 30.
+2020-01-02T14:03:10.955964000 1.622291s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 9.
+2020-01-02T14:03:11.154917000 1.821238s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 9. Latest log index is 31.
+2020-01-02T15:13:40.583197000 4231.093814s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-02T15:13:40.583337000 4231.093953s notice: Shutting down client connections...
+2020-01-02T15:13:40.583470000 4231.094087s notice: All client connections closed.
+2020-01-02T15:13:40.583476000 4231.094092s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-02T15:13:40.591602000 4231.102218s notice: Storage engine shut down.
+2020-01-03T08:29:27.635350000 0.030978s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T08:29:27.640739000 0.036365s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T08:29:27.640806000 0.036431s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-03T08:29:27.677912000 0.073536s info: Automatically using cache size of 5477 MB
+2020-01-03T08:29:27.680169000 0.075793s notice: Listening for intracluster connections on port 29015
+2020-01-03T08:29:27.725561000 0.121183s notice: Listening for client driver connections on port 28015
+2020-01-03T08:29:27.725639000 0.121262s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T08:29:27.725643000 0.121265s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T08:29:27.725645000 0.121267s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T08:29:27.725739000 0.121361s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T08:29:27.725742000 0.121365s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T08:29:27.725745000 0.121367s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T08:29:29.030917000 1.426501s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 10.
+2020-01-03T08:29:29.057702000 1.453285s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 10. Latest log index is 34.
+2020-01-03T08:29:29.222758000 1.618336s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 10.
+2020-01-03T08:29:29.252478000 1.648055s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 10. Latest log index is 36.
+2020-01-03T08:29:29.419819000 1.815391s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 10.
+2020-01-03T08:29:29.706407000 2.101970s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 10. Latest log index is 35.
+2020-01-03T13:37:22.357231000 18474.085873s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T13:37:22.357377000 18474.086018s notice: Shutting down client connections...
+2020-01-03T13:37:22.357520000 18474.086161s notice: All client connections closed.
+2020-01-03T13:37:22.357523000 18474.086165s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T13:37:22.365421000 18474.094063s notice: Storage engine shut down.
+2020-01-03T13:37:29.329558000 0.015633s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T13:37:29.340944000 0.027017s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T13:37:29.341007000 0.027079s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-03T13:37:29.375022000 0.061093s info: Automatically using cache size of 3962 MB
+2020-01-03T13:37:29.376082000 0.062153s notice: Listening for intracluster connections on port 29015
+2020-01-03T13:37:29.416061000 0.102131s notice: Listening for client driver connections on port 28015
+2020-01-03T13:37:29.416125000 0.102194s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T13:37:29.416130000 0.102199s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T13:37:29.416151000 0.102220s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T13:37:29.416154000 0.102224s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T13:37:29.416157000 0.102226s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T13:37:29.416159000 0.102228s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T13:37:30.864732000 1.550758s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 11.
+2020-01-03T13:37:30.892209000 1.578234s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 11. Latest log index is 40.
+2020-01-03T13:37:30.905654000 1.591679s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 11.
+2020-01-03T13:37:30.934291000 1.620315s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 11. Latest log index is 38.
+2020-01-03T13:37:31.074814000 1.760834s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 11.
+2020-01-03T13:37:31.097260000 1.783279s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 11. Latest log index is 39.
+2020-01-03T13:39:03.475555000 94.158803s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T13:39:03.475658000 94.158906s notice: Shutting down client connections...
+2020-01-03T13:39:03.475807000 94.159054s notice: All client connections closed.
+2020-01-03T13:39:03.475830000 94.159078s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T13:39:03.481742000 94.164990s notice: Storage engine shut down.
+2020-01-03T15:13:26.770039000 0.015658s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T15:13:26.779882000 0.025498s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T15:13:26.779937000 0.025552s notice: Loading data from directory /Users/apple/rethink/rethink/rethinkdb_data
+2020-01-03T15:13:26.808978000 0.054593s info: Automatically using cache size of 3854 MB
+2020-01-03T15:13:26.809596000 0.055210s notice: Listening for intracluster connections on port 29015
+2020-01-03T15:13:26.845625000 0.091238s notice: Listening for client driver connections on port 28015
+2020-01-03T15:13:26.845717000 0.091330s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T15:13:26.845722000 0.091335s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T15:13:26.845724000 0.091337s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T15:13:26.845741000 0.091354s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T15:13:26.845744000 0.091357s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T15:13:26.845748000 0.091361s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T15:13:27.915977000 1.161559s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 12.
+2020-01-03T15:13:27.947042000 1.192622s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 12. Latest log index is 42.
+2020-01-03T15:13:28.571794000 1.817356s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 12.
+2020-01-03T15:13:28.616508000 1.862069s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 12. Latest log index is 44.
+2020-01-03T15:13:28.792350000 2.037905s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 12.
+2020-01-03T15:13:28.830420000 2.075974s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 12. Latest log index is 43.
+2020-01-03T15:24:20.497437000 653.717001s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T15:24:20.497585000 653.717149s notice: Shutting down client connections...
+2020-01-03T15:24:20.498204000 653.717768s notice: All client connections closed.
+2020-01-03T15:24:20.498212000 653.717776s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T15:24:20.632269000 653.851829s notice: Storage engine shut down.
+2020-01-03T15:24:38.032347000 0.013640s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T15:24:38.037481000 0.018771s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T15:24:38.037549000 0.018839s notice: Loading data from directory /Users/apple/rethink/react/rethinkdb_data
+2020-01-03T15:24:38.074324000 0.055612s info: Automatically using cache size of 3571 MB
+2020-01-03T15:24:38.075057000 0.056346s notice: Listening for intracluster connections on port 29015
+2020-01-03T15:24:38.117127000 0.098414s notice: Listening for client driver connections on port 28015
+2020-01-03T15:24:38.117200000 0.098487s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T15:24:38.117226000 0.098513s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T15:24:38.117228000 0.098515s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T15:24:38.117231000 0.098518s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T15:24:38.117233000 0.098520s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T15:24:38.117236000 0.098522s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T15:24:39.382074000 1.363323s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 13.
+2020-01-03T15:24:39.411665000 1.392914s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 13. Latest log index is 46.
+2020-01-03T15:24:39.463965000 1.445211s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 13.
+2020-01-03T15:24:39.489252000 1.470498s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 13. Latest log index is 47.
+2020-01-03T15:24:39.537669000 1.518914s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 13.
+2020-01-03T15:24:39.574290000 1.555533s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 13. Latest log index is 48.
+2020-01-03T15:50:27.550565000 1549.479207s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T15:50:27.550677000 1549.479318s notice: Shutting down client connections...
+2020-01-03T15:50:27.550832000 1549.479474s notice: All client connections closed.
+2020-01-03T15:50:27.550838000 1549.479479s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T15:50:27.557470000 1549.486112s notice: Storage engine shut down.
+2020-01-03T15:50:35.033204000 0.013658s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T15:50:35.045561000 0.026014s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T15:50:35.045764000 0.026214s notice: Loading data from directory /Users/apple/rethink/react/rethinkdb_data
+2020-01-03T15:50:35.079123000 0.059572s info: Automatically using cache size of 2983 MB
+2020-01-03T15:50:35.079771000 0.060220s notice: Listening for intracluster connections on port 29015
+2020-01-03T15:50:35.130583000 0.111030s notice: Listening for client driver connections on port 28015
+2020-01-03T15:50:35.130707000 0.111154s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T15:50:35.130711000 0.111159s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T15:50:35.130714000 0.111161s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T15:50:35.130716000 0.111163s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T15:50:35.130718000 0.111165s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T15:50:35.130725000 0.111172s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T15:50:36.179522000 1.159939s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 14.
+2020-01-03T15:50:36.198933000 1.179349s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 14. Latest log index is 50.
+2020-01-03T15:50:36.227225000 1.207640s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 14.
+2020-01-03T15:50:36.250509000 1.230922s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 14. Latest log index is 51.
+2020-01-03T15:50:36.824764000 1.805161s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 14.
+2020-01-03T15:50:36.894403000 1.874798s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 14. Latest log index is 52.
+2020-01-03T16:51:52.768924000 3677.611497s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T16:51:52.769130000 3677.611703s notice: Shutting down client connections...
+2020-01-03T16:51:52.769552000 3677.612124s notice: All client connections closed.
+2020-01-03T16:51:52.769563000 3677.612135s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T16:51:52.777183000 3677.619756s notice: Storage engine shut down.
+2020-01-03T16:54:21.014449000 0.015685s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T16:54:21.025474000 0.026707s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T16:54:21.025536000 0.026768s notice: Loading data from directory /Users/apple/rethink/react/rethinkdb_data
+2020-01-03T16:54:21.061069000 0.062301s info: Automatically using cache size of 2969 MB
+2020-01-03T16:54:21.061670000 0.062902s notice: Listening for intracluster connections on port 29015
+2020-01-03T16:54:21.104044000 0.105274s notice: Listening for client driver connections on port 28015
+2020-01-03T16:54:21.104174000 0.105405s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T16:54:21.104181000 0.105411s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T16:54:21.104222000 0.105452s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T16:54:21.104225000 0.105455s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T16:54:21.104229000 0.105459s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T16:54:21.104234000 0.105464s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T16:54:22.241749000 1.242945s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 15.
+2020-01-03T16:54:22.265914000 1.267109s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 15. Latest log index is 56.
+2020-01-03T16:54:22.994480000 1.995654s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 15.
+2020-01-03T16:54:23.017246000 2.018419s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 15. Latest log index is 55.
+2020-01-03T16:54:23.059605000 2.060776s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 15.
+2020-01-03T16:54:23.080404000 2.081575s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 15. Latest log index is 54.
+2020-01-03T16:55:24.862254000 63.861572s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T16:55:24.862363000 63.861680s notice: Shutting down client connections...
+2020-01-03T16:55:24.862494000 63.861811s notice: All client connections closed.
+2020-01-03T16:55:24.862497000 63.861814s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T16:55:24.868754000 63.868071s notice: Storage engine shut down.
+2020-01-03T16:55:29.918298000 0.013307s notice: Running rethinkdb 2.4.0 (CLANG 11.0.0 (clang-1100.0.33.16))...
+2020-01-03T16:55:29.924367000 0.019374s notice: Running on Darwin 19.2.0 x86_64
+2020-01-03T16:55:29.924446000 0.019451s notice: Loading data from directory /Users/apple/rethink/react/rethinkdb_data
+2020-01-03T16:55:29.958605000 0.053610s info: Automatically using cache size of 2921 MB
+2020-01-03T16:55:29.959339000 0.054343s notice: Listening for intracluster connections on port 29015
+2020-01-03T16:55:30.013552000 0.108555s notice: Listening for client driver connections on port 28015
+2020-01-03T16:55:30.013669000 0.108672s notice: Listening for administrative HTTP connections on port 8080
+2020-01-03T16:55:30.013674000 0.108676s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2020-01-03T16:55:30.013690000 0.108693s notice: Listening on driver addresses: 127.0.0.1, ::1
+2020-01-03T16:55:30.013692000 0.108695s notice: Listening on http addresses: 127.0.0.1, ::1
+2020-01-03T16:55:30.013694000 0.108697s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2020-01-03T16:55:30.013697000 0.108700s notice: Server ready, "MacBook_Pro_8_local_lg7" 928c04db-84a7-48ae-9975-c264a5d39659
+2020-01-03T16:55:30.980932000 1.075907s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: Starting a new Raft election for term 16.
+2020-01-03T16:55:31.008073000 1.103047s info: Table 5cff2082-a6cd-4cda-ab89-a01f6986a07f: This server is Raft leader for term 16. Latest log index is 60.
+2020-01-03T16:55:31.602002000 1.696957s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: Starting a new Raft election for term 16.
+2020-01-03T16:55:31.634929000 1.729883s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: Starting a new Raft election for term 16.
+2020-01-03T16:55:31.657970000 1.752924s info: Table 9c31dfa1-b0e3-42fd-ba7f-4a69913cdca8: This server is Raft leader for term 16. Latest log index is 58.
+2020-01-03T16:55:31.734800000 1.829751s info: Table c7ecb5ae-2d36-47af-9ef0-1ea180fd3282: This server is Raft leader for term 16. Latest log index is 59.
+2020-01-03T17:03:06.597028000 456.678334s notice: Server got SIGINT from pid 463, uid 502; shutting down...
+2020-01-03T17:03:06.597188000 456.678494s notice: Shutting down client connections...
+2020-01-03T17:03:06.597349000 456.678655s notice: All client connections closed.
+2020-01-03T17:03:06.597353000 456.678659s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2020-01-03T17:03:06.604111000 456.685417s notice: Storage engine shut down.
